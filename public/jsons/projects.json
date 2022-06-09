@@ -1,0 +1,69 @@
+[
+  {
+    "id": 21,
+    "name": "Tool Planet",
+    "type": "Manufacturing Company Website",
+    "image": "images/screenshots/toolsPlanet.png",
+    "description": "This is a full-stack responsive react project where dealers can buy tools in bulk. Users can go to the dashboard and pay for or cancel their orders. Only admins see all orders and their payment status in the dashboard. They can also ship paid orders. Admins can make normal users admin and add or delete products.",
+    "links": [
+      {
+        "id": 31,
+        "title": "Live Site",
+        "url": "https://tool-planet.web.app/"
+      },
+      {
+        "id": 32,
+        "title": "Client Side Code",
+        "url": "https://github.com/G-Mursalin/manufacturer-website-client"
+      },
+      {
+        "id": 33,
+        "title": "Server Side Code",
+        "url": "https://github.com/G-Mursalin/manufacturer-website-server"
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "name": "DOMINATE",
+    "type": "Car Manager Website",
+    "image": "images/screenshots/dominate.png",
+    "description": "This is another full stack responsive web application to manage cars in stock. Where users can update the stock of a car by restocking or delivering products. The user can add or delete cars from the list.",
+    "links": [
+      {
+        "id": 41,
+        "title": "Live Site",
+        "url": "https://dominate-db3ff.web.app/"
+      },
+      {
+        "id": 42,
+        "title": "Client Side Code",
+        "url": "https://github.com/G-Mursalin/car-management-client"
+      },
+      {
+        "id": 43,
+        "title": "Server Side Code",
+        "url": "https://github.com/G-Mursalin/car-management-server"
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "name": "Natours",
+    "type": "Simple one page Website.",
+    "image": "images/screenshots/natours.png",
+    "description": "This is a simple one page website using only core HTML and CSS.",
+    "links": [
+      {
+        "id": 51,
+        "title": "Live Site",
+        "url": "https://natours-1232.netlify.app/"
+      },
+      {
+        "id": 52,
+        "title": "Client Side Code",
+        "url": "https://github.com/G-Mursalin/Natours"
+      }
+    ]
+  }
+]
